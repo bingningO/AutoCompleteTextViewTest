@@ -1,0 +1,78 @@
+# built application files
+*.apk
+*.ap_
+ 
+# files for the dex VM
+*.dex
+ 
+# Java class files
+*.class
+ 
+# generated files
+bin/
+gen/
+lint.xml
+ 
+ 
+# Local configuration file (sdk path, etc)
+local.properties
+ 
+# eclipse settings
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+.classpath
+.settings/
+.loadpath
+ 
+# External tool builders
+.externalToolBuilders/
+ 
+# Locally stored "Eclipse launch configurations"
+*.launch
+ 
+# CDT-specific
+.cproject
+ 
+# PDT-specific
+.buildpath
+ 
+# Intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+ 
+.DS_Store
+ 
+# Android Studio
+.gradle/
+build/
+#settings.gradle
+
+bin
+gen
+libs
+target
+/.settings
+org.eclipse.jdt.core.prefs
+#.gitignore
+/.idea
+/*.iml
+/gen-external-apklibs
+/classes
+
+/proguard/dump.txt
+/proguard/mapping.txt
+/proguard/seeds.txt
+/proguard/usage.txt
+
+/proguard/usage.txt
+/build_debug_upload.sh
